@@ -27,7 +27,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'zm261z3tt12uf12w1&&y^9r2k+*xpc7(c!0*luiw5d=wev**ub'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','www.navdharatech.heroku.com','navdharatech.herokuapp.com','navdharatech.online','www.navdharatech.online']
 
