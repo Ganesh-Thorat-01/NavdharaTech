@@ -1,1 +1,1 @@
-web: gunicorn NavdharaTech.wsgi --log-file -
+web: gunicorn NavdharaTech.wsgi
